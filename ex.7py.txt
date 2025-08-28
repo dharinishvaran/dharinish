@@ -1,3 +1,2 @@
 print("Dharinish")
 print("Dhamotharan")
-print("Sridhar")
